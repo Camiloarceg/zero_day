@@ -1,1 +1,1 @@
-esto es un readme
+This is a README POGGERS

@@ -1,2 +1,1 @@
-<strong>This file is mandatory in projects</strong>
-
+This is my first README for my Proyect about Git.
